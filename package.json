@@ -1,0 +1,20 @@
+{
+  "name": "coerce-number",
+  "version": "1.0.0",
+  "description": "Coerce a numeric string value into a Number",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "coerce",
+    "string",
+    "number",
+    "convert"
+  ],
+  "author": "Chris Thompson <chris@thompson-web.org>",
+  "license": "ISC",
+  "devDependencies": {
+    "simple-test": "^0.1.2"
+  }
+}
