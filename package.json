@@ -2,6 +2,10 @@
   "name": "coerce-number",
   "version": "1.0.0",
   "description": "Coerce a numeric string value into a Number",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cjthompson/coerceNumber.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "node test"
